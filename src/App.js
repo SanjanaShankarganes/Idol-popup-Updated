@@ -5,7 +5,7 @@ const App = () => {
     return (
         <div>
             <header>
-                <h1>Application Form</h1>
+               
             </header>
             <main>
                 <TableComponent />
